@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Website",
+    "description": "A responsive personal website with a blog and portfolio.",
+    "tech": ["HTML","CSS","JavaScript"],
+    "url": "https://example.com",
+    "repo": "https://github.com/example/personal-site",
+    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=800&q=60"
+  },
+  {
+    "id": 2,
+    "title": "E‑commerce Demo",
+    "description": "A simple e‑commerce demo with product listing and cart.",
+    "tech": ["Node","Express","SQLite"],
+    "url": "https://example.com/shop",
+    "repo": "https://github.com/example/ecommerce-demo",
+    "image": "https://images.unsplash.com/photo-1515165562835-cf52d0b8c1f6?w=800&q=60"
+  }
+]
